@@ -3,5 +3,3 @@
 Directly push
 
 ## New feature added
-
-## Another cool feature added

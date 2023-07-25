@@ -1,3 +1,3 @@
 # Sample repo for revising git
 
-Diff
+Directly push
